@@ -1,6 +1,6 @@
-Welcome to my GitHub!
+# 🚀 WELCOME TO MY GITHUB!  
 
-🌟 About Me
+## 🌟 ABOUT ME  
 
 Hi! I’m Danish Malik, a Biomedical Engineering major from West Chester, Ohio. Growing up just north of Cincinnati, I’ve always been fascinated by the intersection of technology and healthcare, especially when it comes to developing innovative medical devices that can transform rehabilitation and improve patient outcomes.
 
@@ -11,7 +11,7 @@ Beyond research, I’m actively involved in Engineers Without Borders, where I�
 
 Most recently, I took on the role of Secretary for the Miami University Robotics Club, where I help with mentoring students interested in building their projects while ensuring smooth club operations. I also work closely with the executive team to coordinate events, maintain the club’s online presence, and support corporate outreach initiatives, helping to create a collaborative space for robotics enthusiasts.
 
-I’m always looking for new ways to apply critical thinking, problem-solving, and communication skills to real-world challenges. Check out my projects below, and Linkedin for more information on what I have been up to! 
+I’m always looking for new ways to apply critical thinking, problem-solving, and communication skills to real-world challenges. Check out my projects below, and [Linkedin](linkedin.com/in/muhammad-d-malik) for more information on what I have been up to! 
 
 <!---
 malik21112/malik21112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
